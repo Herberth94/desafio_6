@@ -1,0 +1,13 @@
+[
+    {
+        "title": "producto prueba_3",
+        "description": "Este es un producto prueba",
+        "price": 200,
+        "thumbnail": "sin imagen",
+        "status": true,
+        "category": "clothes",
+        "code": "abc8",
+        "stock": 25,
+        "id": 0
+    }
+]
