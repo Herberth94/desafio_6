@@ -52,6 +52,7 @@ productsController.addProducts = async (req,res)=>{
 productsController.deleteProducts = async (req,res)=>{
    try {
       const {pid} = req.params
+      
       console.log(pid)
       const result = await product.deleteProduct(pid);
       if(result){
